@@ -5,6 +5,9 @@ dependencies:
     - gudhi
     - pandas
     - jupyterlab>=0.35
+    - numpy
+    - scikit-learn
+    - tensorflow
     - pip:
       - jupyterlab_latex
       - ipywidgets
