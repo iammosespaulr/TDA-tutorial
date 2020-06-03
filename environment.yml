@@ -1,12 +1,12 @@
-name: three8
-channels:
-  - conda-forge
 dependencies:
   - pot
-  - texlive-core
+  - texlive
+  - ghostscript
   - r-tinytex
   - numpy
   - matplotlib
   - pandas
   - gudhi
   - ipywidgets
+  - dvipng
+
