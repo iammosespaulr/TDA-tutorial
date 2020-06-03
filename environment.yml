@@ -1,12 +1,9 @@
+channels:
+    - conda-forge
 dependencies:
-  - pot
-  - texlive
-  - ghostscript
-  - r-tinytex
-  - numpy
-  - matplotlib
-  - pandas
-  - gudhi
-  - ipywidgets
-  - dvipng
-
+    - matplotlib
+    - jupyterlab>=0.35
+    - pip:
+      - jupyterlab_latex
+      - ipywidgets
+      - numpy
