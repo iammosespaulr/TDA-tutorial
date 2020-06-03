@@ -1,0 +1,9 @@
+name: three8
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - gudhi
+  - ipywidgets
