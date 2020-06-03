@@ -2,6 +2,7 @@ name: three8
 channels:
   - conda-forge
 dependencies:
+  - r-tinytex
   - numpy
   - matplotlib
   - pandas
