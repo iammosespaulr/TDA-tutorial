@@ -1,13 +1,9 @@
-name: tdatuto
 channels:
-  - conda-forge
-  - defaults
+    - conda-forge
 dependencies:
-  - numpy
-  - pandas
-  - matplotlib
-  - seaborn
-  - scikit-learn
-  - tensorflow
-  - plotly
-  - gudhi
+    - matplotlib
+    - jupyterlab>=0.35
+    - pip:
+      - jupyterlab_latex
+      - ipywidgets
+      - numpy
