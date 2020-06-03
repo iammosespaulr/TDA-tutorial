@@ -1,3 +1,4 @@
-texlive-full
+texlive
 dvipng
 ghostscript
+texlive-full
