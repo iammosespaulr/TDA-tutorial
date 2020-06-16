@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iammosespaulr/TDA-tutorial/master?filepath=https%3A%2F%2Fgithub.com%2Fiammosespaulr%2FTDA-tutorial%2Fblob%2Fmaster%2Flollipop.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iammosespaulr/TDA-tutorial/master?filepath=lollipop.ipynb)
 
 Tutorials for Topological Data Analysis with the Gudhi Library
 ================
